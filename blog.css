@@ -1,0 +1,40 @@
+body{
+	border: 20px solid #9babc6;
+	width: 70%;
+	margin-left: 2%;
+	margin: auto;
+	margin-top: 5%;
+	font-family: "PT Sans Narrow", sans-serif;
+}
+#date {
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #71a1f2;
+	padding-left: 2%;
+	letter-spacing: 0.2em;
+	width: 95%;
+}
+h1{
+	font-weight: 700;
+	padding-left: 2%;
+	width: 95%;
+}
+
+p{
+	font-size: 16px;
+	padding-left: 2%;
+	width: 95%;
+}
+
+#p1 {
+	border-left: 5px solid #9babc6;
+	margin: 2%;
+	padding: .5%;
+	width: 95%;
+}
+
+hr{
+	border-bottom: 3px solid #cfcfd1;
+	width: 95%;
+
+}
